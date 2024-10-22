@@ -1,4 +1,4 @@
-## 📁 Estructura de carpetas
+lo## 📁 Estructura de carpetas
 
 ```
 📦 src/
@@ -293,7 +293,7 @@ src/
 - Commits con más de 5 archivos no relacionados
 - Mensajes genéricos como "update", "fix", "cambios"
 - Mezcla de features en un solo commit
-- Push directo a main o develop
+- Push directo a main o dev
 
 ### 🎯 Objetivos de un Buen Commit
 - Describe UN cambio específico
