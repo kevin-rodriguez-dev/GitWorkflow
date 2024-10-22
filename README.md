@@ -1,4 +1,4 @@
-lo## 📁 Estructura de carpetas
+## 📁 Estructura de carpetas
 
 ```
 📦 src/
